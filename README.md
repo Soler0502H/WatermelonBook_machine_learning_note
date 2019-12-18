@@ -7,7 +7,7 @@ Python
 ## 篇章内容分布：
 |章|标题|具体知识点|是否有Code|
 |:--:|:--:|:--|:--:|
-|第一章|【[绪论](https://github.com/SolerHo/WatermelonBook_machine_learning_note/tree/master/notebook/%E7%AC%AC%E4%B8%80%E7%AB%A0)】|1.ML基本术语 / 2.假设空间 / 3.归纳偏好|否|
+|第一章|【[绪论](https://github.com/SolerHo/WatermelonBook_machine_learning_note/tree/master/notebook/%E7%AC%AC%E4%B8%80%E7%AB%A0)】|1.ML基本术语 / 2.假设空间 / 3.归纳偏好 / 4.发展历程 / 5.应用现状 / 6.应用案例【个人学习参考增加】|否|
 |第二章|【[模型评价与选择]()】|||
 |||||||
 
